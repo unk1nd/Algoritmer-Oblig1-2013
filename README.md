@@ -1,4 +1,5 @@
-Algoritmer Oblig1 2013
-ved Høgskolen i Narvik
-======================
-Skrevet av Mikael Bendiksen og Svein Olav Bustnes
+
+#Algoritmer Oblig1
+##Ved Høgskolen i Narvik
+###av Mikael Bendiksen & Svein Olav Bustnes
+####2013
